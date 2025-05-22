@@ -1,0 +1,16 @@
+in1: gpio2
+in2: gpio3
+ena: gpio4
+
+in3: gpio6
+in4: gpio5
+enb: gpio7
+
+echo: gpio9
+trig: gpio8
+
+red facing out #note for me
+
+l289n 
+hc-sr04
+raspberry pi pico w
